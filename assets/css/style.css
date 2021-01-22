@@ -24,7 +24,8 @@ p {
     z-index: 1; /* Stay on top */
     top: 37%; /* Stay at the top */
     left: 0;
-    overflow-x: hidden; /* Disable horizontal scroll */
+    /* overflow-x: hidden; Disable horizontal scroll */
+    margin-right: 50px;
   }
   .sidenav a {
     color: #818181;
